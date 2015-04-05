@@ -42,7 +42,7 @@ Crypto-equity isn’t just a convenient way to reduce transaction fees. Crypto-e
 
 **David:**
 
-Artlery is experimenting with finance and value - thinking about art as an asset class in such a way that it is not a commodity. In the current world artists feel that it’s a transactional commodity. Art exists in the world - so it is associated with money. Art has always maintained an interesting relationship to money - but transcends it. 
+[Artlery](http://artlery.com) is experimenting with finance and value - thinking about art as an asset class in such a way that it is not a commodity. In the current world artists feel that it’s a transactional commodity. Art exists in the world - so it is associated with money. Art has always maintained an interesting relationship to money - but transcends it. 
 
 Art is important. I believe we have never had meaningful progress in civilization without progress in art. Science and technology can’t advance without complementary advancement in art. It’s never happened. 
 
@@ -62,19 +62,16 @@ What I have found working in the art world is that you can make an artist. You c
 
 However, a general appreciator can not “make” the value of the work. Through the Artlery app appreciation can make artists in a different way - through the accumulation of appreciation and ownership by a wider audience a collective valuation can be set.
 
-**The Artlery Art Exhibited At The Conference Included**
+**The Artlery Art Exhibited**
 
-Bradley Theodore, "I Took My Land", New York, March 2015
-
-Bazaar Teens, Angel of Mercy, New York, 2015
-
-Jazon Frings, Z Lover Hedge Fund (Z Love Fond de Couverture), Paris, 2015
-
-Bazaar Teens, "The Riches of God's Love Unto the Vessels of Mercy #8", 2015, New York
+* Bradley Theodore, "I Took My Land", New York, March 2015
+* Bazaar Teens, Angel of Mercy, New York, 2015
+* Jazon Frings, Z Lover Hedge Fund (Z Love Fond de Couverture), Paris, 2015
+* Bazaar Teens, "The Riches of God's Love Unto the Vessels of Mercy #8", 2015, New York
 
 ####Matthew Deiters - Founder of Assembly.com
 
-Assembly.com allows engineers, product people, and designers from all over the world to collaborate. They take ownership over what they are building and we distribute 90% of the revenue monthly to the creators.
+[Assembly.com](http://assembly.com) allows engineers, product people, and designers from all over the world to collaborate. They take ownership over what they are building and we distribute 90% of the revenue monthly to the creators.
 
 Before now we haven’t had a good way to collaborate with strangers and to have common trust. We are focused on helping people to collaborate and reward them for what they build. The community rallies around what they like best.
 
