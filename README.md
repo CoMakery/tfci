@@ -3,7 +3,7 @@
 
 We are currently in an early draft stage of co-authoring a book! This book was launched at the Future of Working conference on March 20th 2015. Let us know if you have feedback or would like to participate.
 
-Directly related to the future of working event are:
+Directly related to the Future of Working conference are:
 
 * In depth [CryptoEquity, Cobudgeting, and Currency](cryptoequity-cobudgeting-currency.md) session content
 * An invitation to co-author 1 page agreements to [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
