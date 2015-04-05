@@ -20,6 +20,8 @@ Presenters then responded to this question based on insights from their companie
 
 ##Summary
 
+**By Noah Thorp**
+
 This session looked deeply into the question of how collaborative capacities can be enhanced by emerging technologies. In other words, how can we design systems with non-zero sum game economics? The purpose of this session was to map the solution space. What follows is a high level summary.
 
 Recently, a solution to recording transactions on trusted decentralized networks emerged. The key innovation is a distributed world wide ledger system using a technology called the block chain. Although block chain technology initially gained popularity via Bitcoin, the technical innovation transcends its initial context.
@@ -42,7 +44,7 @@ Crypto-equity isn’t just a convenient way to reduce transaction fees. Crypto-e
 
 ####David Thomson & Maysa Ibrahim - Founders of Artlery
 
-**David:**
+**David Thomson:**
 
 [Artlery](http://artlery.com) is experimenting with finance and value - thinking about art as an asset class in such a way that it is not a commodity. In the current world artists feel that it’s a transactional commodity. Art exists in the world - so it is associated with money. Art has always maintained an interesting relationship to money - but transcends it. 
 
@@ -50,7 +52,7 @@ Art is important. I believe we have never had meaningful progress in civilizatio
 
 With Artlery we attach iBeacon sensors to the artwork. The closest piece of art will show on our app. There’s a button called “appreciate” for you to appreciate the art. When you indicate your “appreciation” in the app you receive partial ownership of the artwork. We track this ownership on the bitcoin block chain. When the art sells you receive an immediate distribution proportional to your ownership.
 
-**Maysa:**
+**Maysa Ibrahim:**
 
 What’s one of the factors that might influence your choice of which piece of art you would appreciate? 
 
@@ -127,7 +129,7 @@ Then we should find a way to create basic income so we can be peers. Everyone ha
 
 P2P culture is something of interest to me but it’s also a trend that is gaining popularity.
 
-**Ed West:** We live in a culture where there are rules but we also implicitly accept exceptions. How can a world organized by smart contracts avoid becoming dystopic? For instance, there’s a clause in my lease that says if I’m late I have to pay 15% penalty and if I don’t pay twice I will be evicted. Where does human judgement and mercy come in. Or, what if I speed on the freeway. How do you negotiate against a Distributed Autonomous Corporation?
+**Edward West:** We live in a culture where there are rules but we also implicitly accept exceptions. How can a world organized by smart contracts avoid becoming dystopic? For instance, there’s a clause in my lease that says if I’m late I have to pay 15% penalty and if I don’t pay twice I will be evicted. Where does human judgement and mercy come in. Or, what if I speed on the freeway. How do you negotiate against a Distributed Autonomous Corporation?
 
 **Primavera De Filippi: ** It’s wrong to assume that a smart contract is an exclusively computer mediated mechanism. For you can add an arbitration clause that requires that a judge interprets. You can create a governance system that includes humans. As soon as there is a leap of complexity then you probably want to rely on human beings. But in this case you can see: here is the point a person was asked to make a decision and here is what they said. It can be a human system but it’s organized in a decentralized manner.
 
@@ -261,38 +263,38 @@ In depth session notes, audio recordings, and media at http://fow.CitizenCode.io
 
 **Convener & Catalyst:**  
 
-    Noah Thorp (Citizen Code)
+* Noah Thorp (Citizen Code)
 
 **Presenters:**
 
-    David Thomson & Maysa Ibrahim (Artlery.com) 
-    Matthew Deiters (Assembly.com)
-    John Light (P2P Connects Us)
-    Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
-    Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+* David Thomson & Maysa Ibrahim (Artlery.com) 
+* Matthew Deiters (Assembly.com)
+* John Light (P2P Connects Us)
+* Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
+* Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
 
 
 **Question Facilitators:**
 
-    Ed West (Hylo.com)
-    Matthew Brown
-    Andrew Barr
-    Harlan T Wood (EnlightenedStructure.net)
+* Edward West (Hylo.com)
+* Seb Paquet (Enspiral)
+* Matthew Brown
+* Andrew Barr
+* Harlan T Wood (EnlightenedStructure.net)
 
 
 **Attendee Contributors:**
 
-    Christopher Allen (pre-session input)
-    Kyle Stewart
-    Lawrence Wang
-    Seb Paquet
-    Jacob Heitler
-    Maysa Ibrahim
-    Jennifer Sertl
-    Kyle Stewart
-    Eloah Paes Ramalho
-    Lawrence Grodeska
-    Danny Spitzberg
-    [If you attended and would like to be added to this list contact Noah Thorp]
+* Christopher Allen (pre-session input)
+* Kyle Stewart
+* Lawrence Wang
+* Jacob Heitler
+* Maysa Ibrahim
+* Jennifer Sertl
+* Kyle Stewart
+* Eloah Paes Ramalho
+* Lawrence Grodeska
+* Danny Spitzberg
+* [If you attended and would like to be added to this list contact Noah Thorp]
 
 This session transcript is licensed under the Creative Commons [CC-BY 2.0 license](https://creativecommons.org/licenses/by/2.0).
