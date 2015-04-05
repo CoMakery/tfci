@@ -1,4 +1,4 @@
-# CryptoEquity, Co-bugeting, and Currency
+# Mechanics of Collaboration: CryptoEquity and Currency
 
 This is a summary of a collaborative session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015. Noah Thorp, co-founder of Citizen Code, catalyzed and facilitated the session. 
 
