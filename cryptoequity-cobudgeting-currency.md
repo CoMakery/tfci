@@ -297,4 +297,4 @@ In depth session notes, audio recordings, and media at http://fow.CitizenCode.io
 * Danny Spitzberg
 * [If you attended and would like to be added to this list contact Noah Thorp]
 
-This session transcript is licensed under the Creative Commons [CC-BY 2.0 license](https://creativecommons.org/licenses/by/2.0).
+This chapter file is licensed under the Creative Commons [CC-BY 2.0 license](https://creativecommons.org/licenses/by/2.0).
