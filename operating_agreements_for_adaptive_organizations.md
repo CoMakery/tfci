@@ -2,7 +2,7 @@
 
 Please note, this is not legal advice on LLC Operating Agreements. Consult your lawyer for drafting LLC, C Corp, and other legal documents.
 
-###Founding observations of adaptive organizations
+###Founding Observations Of Adaptive Organizations
 
 “You need people who are adaptable because the thing that makes you the best in the world in one generation of games is going to be totally useless in the next. So specialization in gaming is sort of the enemy of the future. We had to think about if we’re going to be in a business that’s changing that quickly, how do we avoid institutionalizing one set of production methods in such a way that we can’t adapt to what’s going to be coming next.” - Gabe Newell, Valve Software
 
