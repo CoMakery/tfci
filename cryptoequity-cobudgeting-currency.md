@@ -1,8 +1,8 @@
 # CryptoEquity, Co-bugeting, and Currency
 
-This is a summary of a collaborative session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015.
+This is a summary of a collaborative session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015. Noah Thorp, co-founder of Citizen Code, catalyzed and facilitated the session. 
 
-Noah Thorp, co-founder of Citizen Code, catalyzed and facilitated the session. He framed the session with the question: 
+Noah framed the session with the following question: 
 
 **How can crypto-equity, co-budgeting, and currency enable shared value creation for individuals, organizations, and ecosystems?**
 
@@ -15,6 +15,28 @@ Presenters then responded to this question based on insights from their companie
     John Light (P2P Connects Us)
     Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
     Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+
+##Summary
+
+This session looked deeply into the question of how collaborative capacities can be enhanced by emerging technologies. In other words, how can we design systems with non-zero sum game economics? The purpose of this session was to map the solution space. What follows is a high level summary.
+
+Recently, a solution to recording transactions on trusted decentralized networks emerged. The key innovation is a distributed world wide ledger system using a technology called the block chain. Although block chain technology initially gained popularity via Bitcoin, the technical innovation transcends its initial context.
+
+The implication of this technology is the potential replacement of banks as a source of 3rd party trust, the disruption of state issued fiat currency, the enablement of fully automated organizations, and the empowerment of cooperative funding structures. Although the general public is still unaware of the implications of this technology, many who have perceived its revolutionary potential have been highly motivated to secure its use for collective benefit rather than leveraging it solely for personal gain.
+
+A block chain enabled technology called Crypto-equity has the potential to revolutionize investment into collaborative organizational ecosystems. Although the implementation is modern, the underlying ideas have their roots in Nic Szabo’s 1994 conceptualization of Smart Contracts.
+
+Swarm.fund makes use of Crypto-equity to scale collaborative investment. Swarm, in contrast to the Kickstarter model of project funding, allows funders to become partners and stakeholders. In the Swarm model, funders are incentivized through equity to participate in the success of projects rather than simply contributing because they want a gadget.
+
+A related use of crypto-equity is being pioneered by Artlery.com. Artlery associates iBeacon sensors with artwork. The closest piece of art will show on the Artlery app. There’s a button called “appreciate” for you to appreciate the art. When you indicate your “appreciation” in the app you receive partial ownership of the artwork. Artlery tracks this ownership on the Bitcoin block chain using Colored Coins. When the art sells you receive an immediate distribution proportional to your ownership.
+
+Assembly.com is focused on helping people to collaborate and rewarding them for what they build using crypto-equity revenue sharing tokens.  Engineers, product people, and designers collaborate from all over the world. Team members take ownership over what they build and Assembly distributes 90% of the revenue monthly to the creators. Assembly provides a good way to collaborate with strangers and to have common trust for profit distribution. The community rallies around what they like best.
+
+There is a bounty system for design, copy, and code. The core team allocates bounties and people work for ownership of App Coins. App Coins are a project specific crypto-currency. These are stored on the Bitcoin block chain using Colored Coins. At the end of the month Assembly pays the expenses and distributes the proceeds based on ownership.
+
+Crypto-equity isn’t just a convenient way to reduce transaction fees. Crypto-equity can revolutionize ownership, control, and collaborative capacity of organizational ecosystems. The use of crypto-equity funds for Distributed Collaborative Organizations (DCOs) can allow individuals to participate as owners and creators in an ecosystem of organizations rather than just one.
+
+## Collaboration Mechanics In Depth
 
 ####David Thomson & Maysa Ibrahim - Founders of Artlery
 
