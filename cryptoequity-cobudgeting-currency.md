@@ -10,11 +10,11 @@ Presenters then responded to this question based on insights from their companie
 
 **Presenters:**
 
-* David Thomson & Maysa Ibrahim (Artlery.com) 
-* Matthew Deiters (Assembly.com)
-* John Light (P2P Connects Us)
-* Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
-* Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+* David Thomson & Maysa Ibrahim ([Artlery.com](http://artlery.com)) 
+* Matthew Deiters ([Assembly.com](http://assembly.com))
+* John Light ([Peer To Peer Connects Us](http://p2pconnects.us))
+* Primavera De Filippi ([Harvard Berkman Center for Internet & Society](http://cyber.law.harvard.edu), Artlery.com)
+* Joel Dietz ([Swarm.fund](http://swarm.fund)) - was scheduled to talk but fell ill. Primavera presented in his place.
     
 <iframe width="854" height="510" src="https://www.youtube.com/embed/ct_RskgPDNU" frameborder="0" allowfullscreen></iframe>
 
