@@ -31,5 +31,5 @@ We are currently in an early draft stage of co-authoring a book! This book was l
 
 Get in touch with feedback or contributions. More core team members coming soon.
 
-    Noah Thorp - Noah at Citizen Code (.io), aquabu at github
+* Noah Thorp (noah at Citizen Code dot io)
 
