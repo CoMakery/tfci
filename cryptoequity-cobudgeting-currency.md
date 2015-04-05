@@ -18,7 +18,7 @@ Presenters then responded to this question based on insights from their companie
     
 <iframe width="854" height="510" src="https://www.youtube.com/embed/ct_RskgPDNU" frameborder="0" allowfullscreen></iframe>
 
-Thank you to Matt Schutte for lending his GoPro cameras for the session and helping with editing.
+Thank you to [Matt Schutte](http://matthewschutte.com) for lending his GoPro cameras for the session and helping with editing.
 
 ##Summary
 
