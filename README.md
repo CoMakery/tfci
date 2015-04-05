@@ -31,7 +31,12 @@ We started in collaborative sessions at the Future of Working conference on Marc
 
 
 ##Sponsors
-* [Citizen Code](http://citizencode.io). 
+* [Citizen Code](http://citizencode.io)
+
+##Supporters
+
+
+* Matt Schuttes - thank you for lending your GoPro cameras and helping with editing.
 
 ##Core Team
 
