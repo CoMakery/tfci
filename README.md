@@ -29,6 +29,7 @@ We started in collaborative sessions at the Future of Working conference on Marc
 * Harlan T Wood ([Enlightened Structure](http://EnlightenedStructure.net))
 
 
+
 ##Sponsors
 * [Citizen Code](http://citizencode.io). 
 
@@ -39,3 +40,8 @@ The core team helps to keep the project going. Please contact us with feedback o
 * Noah Thorp (noah at Citizen Code dot io)
 * More core team members coming soon
 
+##Book Sales & License
+
+Profits from this book will be distributed to the contributors and sponsors. We are still evaluating the best tools to track equity and distribute profit for an ebook, and the best license.
+
+Suggestions are welcome.
