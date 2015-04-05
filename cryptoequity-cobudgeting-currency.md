@@ -259,7 +259,7 @@ In depth session notes, audio recordings, and media at http://fow.CitizenCode.io
     Harlan T Wood (EnlightenedStructure.net)
 
 
-**Attendee List:**
+**Attendee Contributors:**
 
     Christopher Allen (pre-session input)
     Kyle Stewart
