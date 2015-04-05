@@ -36,7 +36,7 @@ We started in collaborative sessions at the Future of Working conference on Marc
 ##Supporters
 
 
-* Matt Schuttes - thank you for lending your GoPro cameras and helping with editing.
+* [Matt Schutte](http://matthewschutte.com) - thank you for lending your GoPro cameras and helping with editing.
 
 ##Core Team
 
