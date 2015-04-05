@@ -1,8 +1,8 @@
 # CryptoEquity, Co-bugeting, and Currency
 
-This is a transcript summarizing oa collaborative session. The session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015.
+This is a summary of a collaborative session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015.
 
-Noah Thorp, co-founder of Citizen Code, framed the session with the question: 
+Noah Thorp, co-founder of Citizen Code, catalyzed and facilitated the session. He framed the session with the question: 
 
 **How can crypto-equity, co-budgeting, and currency enable shared value creation for individuals, organizations, and ecosystems?**
 
@@ -205,6 +205,35 @@ Decentralized on demand work could fill the coordination gap for collective orga
 * When you combine the blockchain, cryptocurrency, smart contracts, and distributed hash tables you have the infrastructure for a distributed internet with value at the core. You can imagine a YouTube not owned by a central company, with files not stored on a central server, limitations on centralized surveillance, and distribution of value based on popularity.
 
 John Light summed it up when he said, “The challenge will be to find the balance between the dry code of computers and smart contracts - and the wet code of our hearts.”
+
+###Resources
+
+In depth session notes, audio recordings, and media at http://fow.CitizenCode.io
+
+**Participant Projects**
+
+* [Artlery.com](http://artlery.com) - David Thomson, Maysa Ibrahim, and Primavera De Filippi
+* [Assembly.com](http://assembly.com) - Matthew Dieters
+* [Peer 2 Peer Connects Us](http://p2pconnects.us) - John Light’s podcast
+* [Enlightened Structure](http://enlightenedstructure.net) - Harlan T Wood
+* [Swarm.Fund](http://swarm.fund) - Funding structures for Distributed Collaborative Organizations (DCOs)
+* [Primavera De Filippi on Ethereum, DAOs, and Smart Contracts](https://www.youtube.com/watch?v=slhuidzccpI&t=2643)
+* MetaCurrency - Arthur Brock (pre-session participant)
+
+**Organizational Structures (DAC, DAO, DCO), Crypto-curency and Smart Contracts**
+* [Colored Coins](http://coloredcoins.org) - enables crypto-equity using the Bitcoin block chain
+* [Smart Contracts](http://szabo.best.vwh.net/smart.contracts.html) - Nick Szabo’s 1994 post, including a proto creative commons license
+* [The Etherium White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+* [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+* [Swarm Working Paper](https://www.scribd.com/doc/255347578/SWARM-Working-Paper-Distributed-Networks-and-the-Law) - Distributed Networks and The Law
+* [12 Reasons why cryptoequity may be better than normal equity](https://medium.com/@Swarm/527da582f383)
+* [How Much Longer Before Companies Start To Run Themselves](http://io9.com/how-much-longer-before-companies-start-to-run-themselve-1687015200)
+* [Nick Szabo: The Computer Science of Crypto-Currency](http://bitstein.org/blog/nick-szabo-the-computer-science-of-crypto-currency/)
+
+**Collective Equity and Budget Management**
+* [Paying For Favors](http://www.lifewithalacrity.com/2009/11/paying-for-favors.html)
+* [Slicing Pie](http://www.slicingpie.com)
+* [Enspiral’s structure and co-budgeting](http://www.shareable.net/blog/enspiral-changing-the-way-social-entrepreneurs-do-business)
 
 
 ###Attribution & License
