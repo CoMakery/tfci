@@ -7,7 +7,7 @@ This book was started in collaborative sessions at the Future of Working confere
 
 **Directly related to the Future of Working conference sessions:**
 
-* In depth [CryptoEquity, Cobudgeting, and Currency](cryptoequity-cobudgeting-currency.md) session content
+* In depth content for [Mechanics of Collaboration: CryptoEquity and Currency](cryptoequity-cobudgeting-currency.md)
 * An invitation to co-author 1 page [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
 
 
