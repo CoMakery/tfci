@@ -20,6 +20,10 @@ We are currently in an early draft stage of co-authoring a book! This book was l
 * Joel Dietz ([Swarm](http://swarm.fund))
 * Christopher Allan ([Life With Alacrity](http://www.lifewithalacrity.com))
 * Motaz Attalla
+* Ed West ([Hylo](http://Hylo.com))
+* Matthew Brown
+* Andrew Barr
+* Harlan T Wood ([Enlightened Structure](http://EnlightenedStructure.net))
 
 
 ##Core Team
