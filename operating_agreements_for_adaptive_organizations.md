@@ -41,7 +41,7 @@ Mechanisms of conflict resolution that are cheap and of easy access;
 
 Here is a set of questions to draft a simple agreement for your team. We are interested in compiling, open sourcing, and testing the agreements that you come up with. Please be in touch if you are active in this area.
 
-**Exploring Group Values**
+**Exploring Adaptability**
 
 1. What are the attributes of an organization that can respond to internal and external change?
 1. What values would you want your adaptive organization to reflect?
