@@ -24,7 +24,7 @@ What simple seed agreements can enable 2-20 people with a common purpose to resp
 
 An answer to this question should fit into a 1 page agreement that all members of the group can understand. The agreement should also build in the capacity to change and evolve. 
 
-A great example for understanding evolvable agreements is the game [Nomic](http://en.wikipedia.org/wiki/Nomic). Nomic was first described by Peter Suber in his writing on the "The Paradox of Self-Amendment".
+A great example for understanding evolvable agreements is the game [Nomic](http://en.wikipedia.org/wiki/Nomic). Nomic was first described by Peter Suber in his writing on "The Paradox of Self-Amendment".
 
 Elinor Ostrom’s design principles for stable local common pool resource management also offer great insight into drafting an effective agreement. Her principles are:
 1. Clearly defined boundaries (effective exclusion of external un-entitled parties);
