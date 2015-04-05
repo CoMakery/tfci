@@ -44,6 +44,6 @@ The core team helps to keep the project going. Please contact us with feedback o
 
 Profits from this book will be distributed to the contributors and sponsors. We are still evaluating the best tools to track equity and distribute profit for an ebook, and the best license.
 
-[Mechanics of Collaboration: CryptoEquity and Currency](cryptoequity-cobudgeting-currency.md) is Creative Commons CC-BY 2.0 Licensed.
+[Mechanics of Collaboration: CryptoEquity and Currency](cryptoequity-cobudgeting-currency.md) is licensed under the Creative Commons [CC-BY 2.0 license](https://creativecommons.org/licenses/by/2.0).
 
 Suggestions are welcome.
