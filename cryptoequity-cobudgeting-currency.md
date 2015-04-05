@@ -103,7 +103,7 @@ Originally people could participate in the valuation based on complexity and the
 
 ####John Light - The Future of Work in A Peer to Peer Society
 
-I work with the "Ok Turtles Foundation". I have a podcast called P2P Connects Us. I am going to outline the necessary pieces of a peer to peer infrastructure.
+I work with the "Ok Turtles Foundation". I have a podcast called [Peer to Peer Connects Us](http://p2pconnects.us). I am going to outline the necessary pieces of a peer to peer infrastructure.
 
 Although BitTorrent was my introduction to peer to peer technology - the block chain has an opportunity to change society on a social level. The blockchain is a distributed database that allows anyone to download and store the data and act as a relay for information stored in the block chain. 
 
