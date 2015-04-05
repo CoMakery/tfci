@@ -1,4 +1,4 @@
 # Summary
 
-* [cryptoequity-cobudgeting-and-currency-session-notes](Cryptoequity-cobudgeting-currency.md)
+* [CryptoEquity, Cobudgeting, and Currency Session Notes](Cryptoequity-cobudgeting-currency.md)
 
