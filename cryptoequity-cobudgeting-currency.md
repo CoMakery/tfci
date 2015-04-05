@@ -1,14 +1,22 @@
 # CryptoEquity, Co-bugeting, and Currency
-#### Collaborative Session Transcript
-#### March 20th, 2015 at the Future of working conference
 
-What follows is a transcription of a highly interesting discussion convened at the future of working conference.
+This is a transcript summarizing oa collaborative session. The session convened at the Future of Working conference. It was hosted by the Vodafone Innovation Center on March 20th, 2015.
 
-Noah Thorp convened and framed the session with the question: 
+Noah Thorp, co-founder of Citizen Code, framed the session with the question: 
 
 **How can crypto-equity, co-budgeting, and currency enable shared value creation for individuals, organizations, and ecosystems?**
 
-####David Thomson & Maysa Ibrahim Founders of Artlery
+Presenters then responded to this question based on insights from their companies and projects.
+
+**Presenters:**
+
+    David Thomson & Maysa Ibrahim (Artlery.com) 
+    Matthew Deiters (Assembly.com)
+    John Light (P2P Connects Us)
+    Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
+    Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+
+####David Thomson & Maysa Ibrahim - Founders of Artlery
 
 **David:**
 
@@ -42,7 +50,7 @@ Jazon Frings, Z Lover Hedge Fund (Z Love Fond de Couverture), Paris, 2015
 
 Bazaar Teens, "The Riches of God's Love Unto the Vessels of Mercy #8", 2015, New York
 
-####Matthew Deiters Founder of Assembly Presentation
+####Matthew Deiters - Founder of Assembly.com
 
 Assembly.com allows engineers, product people, and designers from all over the world to collaborate. They take ownership over what they are building and we distribute 90% of the revenue monthly to the creators.
 
@@ -104,7 +112,7 @@ P2P culture is something of interest to me but it’s also a trend that is gaini
 
 **John Light: **The challenge will be to find the balance between the “dry code” of computers and smart contracts - and the “wet code” of our hearts.
 
-###Primavera De Filippi - CryptoEquity, Distributed Autonomous Organizations, and Decentralization
+####Primavera De Filippi - CryptoEquity, Distributed Autonomous Organizations, and Decentralization
 
 CryptoEquity allows a participants to become a partner. In the Artlery example we have an art piece. Previously we only had an artist and a collector. Artlery allows the public to become a partner and to be encouraged to promote it. I know that my share will increase in value.
 
@@ -133,9 +141,10 @@ There are also options to create a private blockchain. Banks for instance may wa
 We need a transition phase. 5 years is elimination of transaction cost. 10 years is the elimination of redundancy. The core competency of an organization is not accounting if the company say wants to create a cup.. The competition should only be at the edge. The competition should only be on the things that are done differently. This avoids wasting time on the common elements.
 
 
-###Christopher Allen's Pre-Session Comments
+####Christopher Allen - Origins & Progressive Trust
 
-These kind of ideas [about CryptoEquity] have their roots in [Nic Szabo’s concepts about Smart Contracts](http://szabo.best.vwh.net/smart.contracts.html), which he started writing about in 1994  — there are many interesting possiblities here besides bitcoin and distributed autonomous corporations (DACs)
+These kind of ideas [about CryptoEquity] have their roots in [Nic Szabo’s concepts about Smart Contracts](http://szabo.best.vwh.net/smart.contracts.html), which he started writing about in 1994  — there are many interesting possiblities here besides bitcoin and distributed autonomous corporations (DACs).
+
 I will add that many of the harder problems here are with the intersection of computer trust and human trust, what I call Progressive Trust. Pure autonomous systems will not be used by people unless they map well the way people work (which is not always rational). I write a little about how understanding this made SSL win over other approaches: http://www.lifewithalacrity.com/2004/08/progressive_tru.html
 
 ###Facilitated Dialog
@@ -183,7 +192,7 @@ The rise of corporation was also the fall of the bowling club and the society as
 
 Decentralized on demand work could fill the coordination gap for collective organization of the freelancers movement. For example, with Sarah Horowitz’s Freelancers Union the leaf has a tree to grab onto and find home. An organization like that which is already composed of freelancers could provide a good base for decentralized peer to peer crypto equity based systems to emerge.
 
-####Group Insights
+###Group Insights
 
 * Keep the rules simple and understandable, to do this sometimes you need to leverage existing norms.
 * A smart contract is to a contract as a koala bear is to a bear. They are different things. Changing regulations to treat CryptoEquity as different than currently defined securities is essential.
@@ -198,7 +207,7 @@ Decentralized on demand work could fill the coordination gap for collective orga
 John Light summed it up when he said, “The challenge will be to find the balance between the dry code of computers and smart contracts - and the wet code of our hearts.”
 
 
-####Attribution & License
+###Attribution & License
 
 **Convener & Catalyst:**  
 
