@@ -1,6 +1,8 @@
 # Tools For Collaborative Innovation
 ####A co-authored book compiled by [Citizen Code](http://citizencode.io).
 
+
+
 We are currently in an early draft stage. Let us know if you have feedback.
 
 Gracious thanks to early contributors including:
