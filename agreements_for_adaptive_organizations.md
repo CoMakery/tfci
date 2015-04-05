@@ -56,4 +56,12 @@ Here is a set of questions to draft a simple agreement for your team. We are int
 1. Agree on how disputes between two people will be resolved
 1. Agree on how people prioritize what they spend their time on
 1. Agree on how sanctions are enforced for people who do not follow the agreements
+ 
+###Attribution & License
+
+**Authors:**  
+
+* Noah Thorp ([Citizen Code](http://citizencode.io))
+
+This chapter is licensed under the Creative Commons [CC-BY 2.0 license](https://creativecommons.org/licenses/by/2.0).
 
