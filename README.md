@@ -2,7 +2,7 @@
 
 **We are co-authoring a book!**
 
-We started in collaborative sessions at the Future of Working conference on March 20th 2015. Let us know if you have feedback or would like to participate.
+We began during collaborative sessions at the Future of Working conference on March 20th 2015. Let us know if you have feedback or would like to participate.
 
 **Directly related to the Future of Working conference sessions:**
 
@@ -37,6 +37,7 @@ We started in collaborative sessions at the Future of Working conference on Marc
 
 
 * [Matt Schutte](http://matthewschutte.com) - thank you for lending your GoPro cameras and helping with editing.
+* [Hummingbird Labs](http://www.hummingbirdlabs.co)
 
 ##Core Team
 
