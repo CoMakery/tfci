@@ -9,7 +9,7 @@ We are currently in an early draft stage of co-authoring a book! Let us know if 
 Directly related to the future of working event are:
 
 * In depth [CryptoEquity, Cobudgeting, and Currency](cryptoequity-cobudgeting-currency.md) session content
-* An invitation to co-author 1 page agreements to [Agreements For Adaptive Organizations](operating_agreements_for_adaptive_organizations.md)
+* An invitation to co-author 1 page agreements to [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
 
 
 
