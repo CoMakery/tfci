@@ -168,51 +168,41 @@ The rise of corporation was also the fall of the bowling club and the society as
 
 Decentralized on demand work could fill the coordination gap for collective organization of the freelancers movement. For example, with Sarah Horowitz’s Freelancers Union the leaf has a tree to grab onto and find home. An organization like that which is already composed of freelancers could provide a good base for decentralized peer to peer crypto equity based systems to emerge.
 
+####Attribution & License
+
 **Convener & Catalyst:**  
 
-Noah Thorp (Citizen Code)
+    Noah Thorp (Citizen Code)
 
 **Presenters:**
 
-David Thomson & Maysa Ibrahim (Artlery.com) 
-Matthew Deiters (Assembly.com)
-John Light (P2P Connects Us)
-Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
-Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+    David Thomson & Maysa Ibrahim (Artlery.com) 
+    Matthew Deiters (Assembly.com)
+    John Light (P2P Connects Us)
+    Primavera De Filippi (Harvard Berkman Center for Internet & Society, Artlery.com)
+    Joel Dietz (Swarm.fund) - was scheduled to talk but fell ill. Primavera presented in his place.
+
 
 **Question Facilitators:**
 
-Ed West (Hylo.com)
-Matthew Brown
-Andrew Barr
-Harlan T Wood (EnlightenedStructure.net)
+    Ed West (Hylo.com)
+    Matthew Brown
+    Andrew Barr
+    Harlan T Wood (EnlightenedStructure.net)
 
-**Session:  **
-
-CryptoEquity, Cobudgeting, Currency
 
 **Attendee List:**
 
-Noah Thorp
-Joel Dietz
-David Thomson
-John Light
-Matthew Deiters
-Edward West
-Andrew Barr no
-Harlan T Wood
-Matthew Brown
-Christopher Allen (pre-session input)
-Kyle Stewart
-Lawrence Wang
-Seb Paquet
-Jacob Heitler
-Primavera De Filippi
-Maysa Ibrahim
-Jennifer Sertl
-Kyle Stewart
-Eloah Paes Ramalho
-Lawrence Grodeska
-Danny Spitzberg
+    Christopher Allen (pre-session input)
+    Kyle Stewart
+    Lawrence Wang
+    Seb Paquet
+    Jacob Heitler
+    Maysa Ibrahim
+    Jennifer Sertl
+    Kyle Stewart
+    Eloah Paes Ramalho
+    Lawrence Grodeska
+    Danny Spitzberg
 
 This session transcript is licensed under the Creative Commons [cc-by 2.0 license](https://creativecommons.org/licenses/by/2.0).
