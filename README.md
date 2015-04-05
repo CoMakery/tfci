@@ -1,7 +1,17 @@
 # Tools For Collaborative Innovation
 ####A co-authored book compiled by [Citizen Code](http://citizencode.io).
 
-We are currently in an early draft stage. Let us know if you have feedback.
+This book was launched at the Future of Working conference on March 20th 2015. 
+
+We are currently in an early draft stage of co-authoring a book! Let us know if you have feedback or would like to participate.
+
+
+Directly related to the future of working event are:
+
+* The in depth CryptoEquity, Cobudgeting, and Currency session section
+* An open invitation to co-author 1 page agreements to bootstrap adaptive organizations
+
+
 
 Gracious thanks to early contributors including:
     
