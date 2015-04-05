@@ -23,12 +23,13 @@ We are currently in an early draft stage of co-authoring a book! This book was l
 * Ed West ([Hylo](http://Hylo.com))
 * Matthew Brown
 * Andrew Barr
+* Arthur Brock ([Ceptr](http://ceptr.org))
 * Harlan T Wood ([Enlightened Structure](http://EnlightenedStructure.net))
 
 
 ##Core Team
 
-Get in touch with feedback or contributions.
+Get in touch with feedback or contributions. More core team members coming soon.
 
     Noah Thorp - Noah at Citizen Code (.io), aquabu at github
 
