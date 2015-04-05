@@ -3,14 +3,13 @@
 
 We are currently in an early draft stage of co-authoring a book! This book was launched at the Future of Working conference on March 20th 2015. Let us know if you have feedback or would like to participate.
 
-Directly related to the Future of Working conference are:
+**Directly related to the Future of Working conference:**
 
 * In depth [CryptoEquity, Cobudgeting, and Currency](cryptoequity-cobudgeting-currency.md) session content
 * An invitation to co-author 1 page [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
 
 
-
-Gracious thanks to early contributors including:
+**Gracious thanks to early contributors including:**
     
 * Noah Thorp ([Citizen Code](http://citizencode.io))
 * David Thomson ([Artlery](http://artlery.com))
@@ -20,6 +19,8 @@ Gracious thanks to early contributors including:
 * Primavera De Filippi ([Harvard Berkman Center for Internet & Society](http://cyber.law.harvard.edu), [Artlery](http://artlery.com))
 * Joel Dietz ([Swarm](http://swarm.fund))
 * Christopher Allan ([Life With Alacrity](http://www.lifewithalacrity.com))
+* Motaz Attalla
+
 
 ##Core Team
 
