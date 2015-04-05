@@ -6,7 +6,7 @@ We are currently in an early draft stage of co-authoring a book! This book was l
 Directly related to the Future of Working conference are:
 
 * In depth [CryptoEquity, Cobudgeting, and Currency](cryptoequity-cobudgeting-currency.md) session content
-* An invitation to co-author 1 page agreements to [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
+* An invitation to co-author 1 page [Agreements For Adaptive Organizations](agreements_for_adaptive_organizations.md)
 
 
 
