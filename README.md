@@ -11,6 +11,7 @@ Gracious thanks to early contributors including:
     John Light ([P2P Connects Us](http://p2pconnects.us))
     Primavera De Filippi ([Harvard Berkman Center for Internet & Society](http://cyber.law.harvard.edu), Artlery)
     Joel Dietz ([Swarm](http://swarm.fund))
+    [Christopher Allan](http://www.lifewithalacrity.com)
 
 ##Core Team
 
