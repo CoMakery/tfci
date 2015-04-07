@@ -27,6 +27,7 @@ We began during collaborative sessions at the Future of Working conference on Ma
 * Andrew Barr
 * Arthur Brock ([Ceptr](http://ceptr.org))
 * Harlan T Wood ([Enlightened Structure](http://EnlightenedStructure.net))
+* Danny Spitzberg ([Peak Agency](http://peakagency.co))
 
 
 
