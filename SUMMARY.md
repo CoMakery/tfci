@@ -7,4 +7,5 @@
 * [Iterative Project Management](iterative_project_management.md)
 * [Hypothesis Testing](hypothesis_testing.md)
 * [Legal Structures For Highly Collaborative Organizations](legal_structures_for_highly_collaborative_organizations.md)
+* Iterative Product Innovation
 
