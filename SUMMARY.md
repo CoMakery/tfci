@@ -7,5 +7,5 @@
 * [Hypothesis Testing](hypothesis_testing.md)
 * [Legal Structures For Highly Collaborative Organizations](legal_structures_for_highly_collaborative_organizations.md)
 * [Iterative Product Innovation](iterative_product_innovation.md)
-* Balancing Collective & Personal Purpose
+* [Balancing Collective & Personal Purpose](balancing_collective_&_personal_purpose.md)
 
