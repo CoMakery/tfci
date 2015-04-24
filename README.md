@@ -34,6 +34,7 @@ The book is being catalyzed by Noah Thorp with the sponsorship of Citizen Code.
 * Arthur Brock ([Ceptr](http://ceptr.org))
 * Harlan T Wood ([Enlightened Structure](http://EnlightenedStructure.net))
 * Danny Spitzberg ([Peak Agency](http://peakagency.co))
+* Eloah Paes Ramalho
 
 
 
