@@ -15,6 +15,7 @@ Presenters then responded to this question based on insights from their companie
 * John Light ([Peer To Peer Connects Us](http://p2pconnects.us))
 * Primavera De Filippi ([Harvard Berkman Center for Internet & Society](http://cyber.law.harvard.edu), Artlery.com)
 * Joel Dietz ([Swarm.fund](http://swarm.fund)) - was scheduled to talk but fell ill. Primavera presented in his place.
+* Eloah Paes Ramalho
     
 <iframe width="854" height="510" src="https://www.youtube.com/embed/ct_RskgPDNU" frameborder="0" allowfullscreen></iframe>
 
